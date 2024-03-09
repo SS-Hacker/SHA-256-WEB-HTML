@@ -1,0 +1,22 @@
+html{
+    background-image: url("25336.jpg");
+    font-size: 200%;
+   
+   }
+   .sha{
+     color: white;
+   }
+   .hack{
+     width: 20%;
+     height: 30px;
+     border-color: green;
+   }
+   input{
+    color: blue;
+    font-size: 75%;
+   }
+
+   .button{
+    width: 15%;
+    height: 30%;
+   }
